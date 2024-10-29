@@ -1,8 +1,7 @@
 import BlurFade from "@/components/ui/blur-fade";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
-import { ArrowBigRight, ArrowBigRightDash, Code2Icon, Figma, PackageCheck, PenLine } from "lucide-react";
+import {   Code2Icon, Figma, PackageCheck, PenLine } from "lucide-react";
 import Image from "next/image";
-import { Button } from "../ui/button";
 
 const Etapas = () => {
   return (
